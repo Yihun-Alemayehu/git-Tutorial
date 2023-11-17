@@ -8,3 +8,4 @@ git checkout - switch branches or restore working tree files
 git merge - merge changes from one branch into another
 git pull - fetch from and integrate with another repository or a local branch
 git push - update remote refs along with associated objects
+git rm -f - delete the file from the remote repository
